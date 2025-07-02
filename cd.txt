@@ -278,4 +278,9 @@ int main() {
 
 
 
+Bison -o program.c program.y
+Gcc program.c -o program
+./program
+
+
 
